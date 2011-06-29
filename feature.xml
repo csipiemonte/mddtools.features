@@ -2,7 +2,7 @@
 <feature
       id="mddtools.features"
       label="MDDTools Common Functions and Documentation"
-      version="1.1.0.018">
+      version="1.1.0.019">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -20,14 +20,14 @@
          id="mddtools"
          download-size="0"
          install-size="0"
-         version="1.1.0.018"
+         version="1.1.0.019"
          unpack="false"/>
 
    <plugin
          id="mddtools.docs"
          download-size="0"
          install-size="0"
-         version="1.1.0.018"
+         version="1.1.0.019"
          unpack="false"/>
 
 </feature>

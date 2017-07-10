@@ -2,7 +2,7 @@
 <feature
       id="mddtools.features"
       label="MDDTools Common Functions and Documentation"
-      version="3.0.1.001">
+      version="3.1.0.001">
 
    <description>
       documentazione MDDTools e funzioni comuni
@@ -388,14 +388,14 @@ seguenti:
          id="mddtools"
          download-size="0"
          install-size="0"
-         version="3.0.1.001"
+         version="3.1.0.001"
          unpack="false"/>
 
    <plugin
          id="mddtools.docs"
          download-size="0"
          install-size="0"
-         version="3.0.1.001"
+         version="3.1.0.001"
          unpack="false"/>
 
 </feature>
